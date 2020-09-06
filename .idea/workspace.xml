@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a01f290c-44ab-4757-a256-218b4cb96cc7" name="Default Changelist" comment="" />
+    <list default="true" id="a01f290c-44ab-4757-a256-218b4cb96cc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/mihoyo/miHoYo_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/mihoyo/miHoYo_test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -25,6 +33,7 @@
   </component>
   <component name="ProjectId" id="1gCfq36f8xvPLgpdW59iP3EPjbA" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -46,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.jz_1">
+  <component name="RunManager" selected="Application.miHoYo_test2">
     <configuration name="jz_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jzoffer.jz_1" />
       <module name="java_practice" />
@@ -60,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pto_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pointToOffer.pto_19" />
+    <configuration name="miHoYo_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.mihoyo.miHoYo_test1" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pointToOffer.pto_1" />
+          <option name="PATTERN" value="tests.mihoyo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pto_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pointToOffer.pto_21" />
+    <configuration name="miHoYo_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.mihoyo.miHoYo_test2" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pointToOffer.pto_1" />
+          <option name="PATTERN" value="tests.mihoyo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pto_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pointToOffer.pto_29" />
+    <configuration name="mihoyo_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.mihoyo.mihoyo_test1" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pointToOffer.pto_1" />
+          <option name="PATTERN" value="tests.mihoyo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pto_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pointToOffer.pto_49" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.test" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pointToOffer.pto_1" />
+          <option name="PATTERN" value="jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.miHoYo_test2" />
+        <item itemvalue="Application.miHoYo_test1" />
+        <item itemvalue="Application.mihoyo_test1" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.jz_1" />
-        <item itemvalue="Application.pto_29" />
-        <item itemvalue="Application.pto_21" />
-        <item itemvalue="Application.pto_19" />
-        <item itemvalue="Application.pto_49" />
       </list>
     </recent_temporary>
   </component>
@@ -136,10 +145,22 @@
       <workItem from="1598292968121" duration="25245000" />
       <workItem from="1598571868516" duration="9307000" />
       <workItem from="1599050634667" duration="2044000" />
+      <workItem from="1599404391443" duration="9419000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
