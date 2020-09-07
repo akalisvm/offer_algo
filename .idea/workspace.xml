@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a01f290c-44ab-4757-a256-218b4cb96cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/mihoyo/miHoYo_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/mihoyo/miHoYo_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_50.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/Fraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/mihoyo/miHoYo_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/mihoyo/miHoYo_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +43,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1gCfq36f8xvPLgpdW59iP3EPjbA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -55,9 +69,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.miHoYo_test2">
-    <configuration name="jz_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_1" />
+  <component name="RunManager" selected="Application.jz_50">
+    <configuration name="jz_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_31" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -69,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="miHoYo_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.mihoyo.miHoYo_test1" />
+    <configuration name="jz_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_40" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.mihoyo.*" />
+          <option name="PATTERN" value="jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="miHoYo_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.mihoyo.miHoYo_test2" />
+    <configuration name="jz_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_41" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.mihoyo.*" />
+          <option name="PATTERN" value="jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mihoyo_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.mihoyo.mihoyo_test1" />
+    <configuration name="jz_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_42" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.mihoyo.*" />
+          <option name="PATTERN" value="jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.test" />
+    <configuration name="jz_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_50" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.miHoYo_test2" />
-        <item itemvalue="Application.miHoYo_test1" />
-        <item itemvalue="Application.mihoyo_test1" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.jz_1" />
+        <item itemvalue="Application.jz_50" />
+        <item itemvalue="Application.jz_42" />
+        <item itemvalue="Application.jz_40" />
+        <item itemvalue="Application.jz_41" />
+        <item itemvalue="Application.jz_31" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +159,7 @@
       <workItem from="1598292968121" duration="25245000" />
       <workItem from="1598571868516" duration="9307000" />
       <workItem from="1599050634667" duration="2044000" />
-      <workItem from="1599404391443" duration="9419000" />
+      <workItem from="1599404391443" duration="22984000" />
     </task>
     <servers />
   </component>

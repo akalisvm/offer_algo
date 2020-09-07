@@ -1,4 +1,4 @@
-package tests.mihoyo;
+package tests.miHoYo;
 
 /***
  * 1.实现两个分数的四则运算
@@ -10,14 +10,10 @@ package tests.mihoyo;
  **/
 
 class Fraction{
-    int a,b;
+    private int a,b;
     Fraction(int a, int b){
         this.a = a;
         this.b = b;
-    }
-
-    double toDouble(){
-        return (double)a/b;
     }
 
     Fraction plus(Fraction r){
@@ -80,14 +76,14 @@ class Fraction{
         }
     }
 
-    int gcd(int m, int n){
+    private int gcd(int m, int n){
         if (m % n == 0) return n;
         return gcd(n, m % n);
     }
 }
 
 public class miHoYo_test1 {
-    public void fractionCalculate(String str){
+    private void fractionCalculate(String str){
         str = str.trim().replaceAll(" ", "");
         int a = Integer.parseInt(String.valueOf(str.charAt(0)));
         int b = Integer.parseInt(String.valueOf(str.charAt(2)));

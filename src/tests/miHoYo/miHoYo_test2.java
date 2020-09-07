@@ -1,4 +1,4 @@
-package tests.mihoyo;
+package tests.miHoYo;
 
 import java.util.Scanner;
 
@@ -28,7 +28,7 @@ import java.util.Scanner;
  */
 
 public class miHoYo_test2 {
-    public int[][] matrix(int m, int n){
+    private int[][] matrix(int m, int n){
         int[][] matrix = new int[m][n];
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
@@ -45,7 +45,7 @@ public class miHoYo_test2 {
         return matrix;
     }
 
-    public boolean twoRowsMatching(int[] row1, int[] row2){
+    private boolean twoRowsMatching(int[] row1, int[] row2){
         int[] result = new int[row1.length];
         for(int i = 0; i < row1.length; i++){
             if(row1[i] == 1){
@@ -70,7 +70,7 @@ public class miHoYo_test2 {
         return true;
     }
 
-    public boolean newMatrix(int m, int n){
+    private boolean newMatrix(int m, int n){
         if(m <= 15 && n <= 200){
             int[][]matrix = matrix(m,n);
             int counter1 = 0;
