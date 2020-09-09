@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a01f290c-44ab-4757-a256-218b4cb96cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Kchiyoh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Kchiyoh.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_50.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_50.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/Fraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/mihoyo/miHoYo_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/mihoyo/miHoYo_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +48,10 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -69,9 +74,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.jz_50">
-    <configuration name="jz_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_31" />
+  <component name="RunManager" selected="Application.jz_43">
+    <configuration name="jz_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_27" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_40" />
+    <configuration name="jz_43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_43" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_41" />
+    <configuration name="jz_44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_44" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_42" />
+    <configuration name="jz_45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_45" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_50" />
+    <configuration name="jz_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_53" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.jz_50" />
-        <item itemvalue="Application.jz_42" />
-        <item itemvalue="Application.jz_40" />
-        <item itemvalue="Application.jz_41" />
-        <item itemvalue="Application.jz_31" />
+        <item itemvalue="Application.jz_43" />
+        <item itemvalue="Application.jz_44" />
+        <item itemvalue="Application.jz_27" />
+        <item itemvalue="Application.jz_53" />
+        <item itemvalue="Application.jz_45" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +164,8 @@
       <workItem from="1598292968121" duration="25245000" />
       <workItem from="1598571868516" duration="9307000" />
       <workItem from="1599050634667" duration="2044000" />
-      <workItem from="1599404391443" duration="22984000" />
+      <workItem from="1599404391443" duration="48305000" />
+      <workItem from="1599681955470" duration="3383000" />
     </task>
     <servers />
   </component>
@@ -171,7 +177,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
