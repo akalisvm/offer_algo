@@ -5,8 +5,8 @@ import java.util.regex.*;
 public class jz_53 {
     public boolean isNumeric(char[] str) {
         String string = String.valueOf(str);
-        String pattern1 = "^[-+]?(\\.)?\\d+(e(-|\\+)?|E(-|\\+)?|\\.)?\\d*(e(-|\\+)?|E(-|\\+)?)?\\d+$";
-        return Pattern.matches(pattern1, string);
+        String pattern = "^[-+]?(\\.)?\\d+(e(-|\\+)?|E(-|\\+)?|\\.)?\\d*(e(-|\\+)?|E(-|\\+)?)?\\d+$";
+        return Pattern.matches(pattern, string);
     }
 
     public static void main(String[] args){

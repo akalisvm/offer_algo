@@ -82,7 +82,7 @@ class Fraction{
     }
 }
 
-public class miHoYo_test1 {
+public class miHoYo_2020_test1 {
     private void fractionCalculate(String str){
         str = str.trim().replaceAll(" ", "");
         int a = Integer.parseInt(String.valueOf(str.charAt(0)));
@@ -103,7 +103,7 @@ public class miHoYo_test1 {
     }
 
     public static void main(String[] args){
-        miHoYo_test1 m = new miHoYo_test1();
+        miHoYo_2020_test1 m = new miHoYo_2020_test1();
         String str = "  1/8 - 3/8  ";
         m.fractionCalculate(str);
     }

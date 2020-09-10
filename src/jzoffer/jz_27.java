@@ -17,9 +17,6 @@ public class jz_27 {
                     for (String s : newList) {
                         list.add(str.substring(0, 1) + s);
                     }
-                    temp = str.charAt(0);
-                    str.setCharAt(0, str.charAt(i));
-                    str.setCharAt(i, temp);
                 }
             }
         }

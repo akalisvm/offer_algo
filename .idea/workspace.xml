@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a01f290c-44ab-4757-a256-218b4cb96cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Kchiyoh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Kchiyoh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_48.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_43.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_43.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_49.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_49.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_50.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_50.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_53.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_53.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/Fraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_2020_test1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.jz_43">
+  <component name="RunManager" selected="Application.jz_33 (1)">
     <configuration name="jz_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jzoffer.jz_27" />
       <module name="java_practice" />
@@ -88,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_43" />
+    <configuration name="jz_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_32" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_44" />
+    <configuration name="jz_33 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_33" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -114,21 +114,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_45" />
+    <configuration name="jz_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jz_33" />
       <module name="java_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jzoffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_53" />
+    <configuration name="jz_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_49" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.jz_43" />
-        <item itemvalue="Application.jz_44" />
+        <item itemvalue="Application.jz_33 (1)" />
+        <item itemvalue="Application.jz_32" />
+        <item itemvalue="Application.jz_33" />
+        <item itemvalue="Application.jz_49" />
         <item itemvalue="Application.jz_27" />
-        <item itemvalue="Application.jz_53" />
-        <item itemvalue="Application.jz_45" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +159,8 @@
       <workItem from="1598571868516" duration="9307000" />
       <workItem from="1599050634667" duration="2044000" />
       <workItem from="1599404391443" duration="48305000" />
-      <workItem from="1599681955470" duration="3383000" />
+      <workItem from="1599681955470" duration="4309000" />
+      <workItem from="1599708047136" duration="13684000" />
     </task>
     <servers />
   </component>

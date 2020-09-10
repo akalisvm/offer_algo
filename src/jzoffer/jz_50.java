@@ -17,7 +17,9 @@ public class jz_50 {
                 break;
             }
         }
-        if(!flag){ duplication[0] = -1; }
+        if(!flag) {
+            duplication[0] = -1;
+        }
         System.out.print(duplication[0] + " ");
         return flag;
     }
