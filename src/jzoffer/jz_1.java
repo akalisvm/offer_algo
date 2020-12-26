@@ -1,12 +1,10 @@
 package jzoffer;
 
-import java.util.Arrays;
-
 public class jz_1 {
     public boolean Find(int target, int[][] array){
-        for(int i = 0; i < array.length; i++){
-            for(int j = 0; j < array[i].length; j++){
-                if(array[i][j] == target){
+        for (int[] ints : array) {
+            for (int anInt : ints) {
+                if (anInt == target) {
                     return true;
                 }
             }

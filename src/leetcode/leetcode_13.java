@@ -1,7 +1,7 @@
 package leetcode;
 
-class Solution13 {
-    public int romanToInt(String s) {
+public class leetcode_13 {
+    public static int romanToInt(String s) {
         int sum = 0;
         int preNum = getValue(s.charAt(0));
         for(int i = 1; i < s.length(); i++){
@@ -18,7 +18,7 @@ class Solution13 {
         return sum;
     }
 
-    private int getValue(char ch){
+    private static int getValue(char ch){
         switch (ch){
             case 'I': return 1;
             case 'V': return 5;
@@ -32,7 +32,6 @@ class Solution13 {
     }
 
     public static void main(String[] args){
-        Solution13 s =  new Solution13();
-        System.out.println(s.romanToInt("MCMXCIV"));
+        System.out.println(romanToInt("MCMXCIV"));
     }
 }

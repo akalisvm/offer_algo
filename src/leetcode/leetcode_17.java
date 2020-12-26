@@ -3,8 +3,8 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution17 {
-    public List<String> letterCombinations(String digits) {
+public class leetcode_17 {
+    public static List<String> letterCombinations(String digits) {
         List<String> mapping = new ArrayList<>();
         String[] letter = new String[]{"abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
         if(digits.equals("")) return mapping;
@@ -34,8 +34,7 @@ class Solution17 {
     }
 
     public static void main(String[] args){
-        Solution17 s = new Solution17();
         String digits = "7";
-        System.out.println(s.letterCombinations(digits));
+        System.out.println(letterCombinations(digits));
     }
 }

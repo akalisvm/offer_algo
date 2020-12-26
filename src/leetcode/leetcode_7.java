@@ -1,7 +1,7 @@
 package leetcode;
 
-class Solution7 {
-    public int reverse(int x) {
+class leetcode_7 {
+    public static int reverse(int x) {
         long result = 0;
         int tmp = Math.abs(x);
         while (tmp > 0){
@@ -22,7 +22,6 @@ class Solution7 {
 
     public static void main(String[] args) {
         int x = 321;
-        Solution7 s = new Solution7();
-        System.out.print(s.reverse(x));
+        System.out.print(reverse(x));
     }
 }

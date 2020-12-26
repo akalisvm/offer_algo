@@ -12,7 +12,7 @@ class ListNode{
         this.val = val;
     }
 
-    public void addNode(ListNode newNode){
+    void addNode(ListNode newNode){
         if(this.next == null){
             this.next = newNode;
         }
@@ -23,7 +23,7 @@ class ListNode{
 }
 
 public class jz_3 {
-    public ArrayList<Integer> printListFromTailToHead(ListNode listNode){
+    private ArrayList<Integer> printListFromTailToHead(ListNode listNode){
         ArrayList<Integer> list = new ArrayList<>();
         Stack<Integer> stack = new Stack<>();
         ListNode tmp = listNode;

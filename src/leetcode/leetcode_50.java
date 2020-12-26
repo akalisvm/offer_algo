@@ -1,7 +1,7 @@
 package leetcode;
 
-class Solution50 {
-    public double myPow(double x, int n) {
+public class leetcode_50 {
+    public static double myPow(double x, int n) {
         if(x < -100.0 || x > 100.0) return 0;
         else if(n == 0) return 1.0;
         else if(n > 0){
@@ -21,7 +21,6 @@ class Solution50 {
     }
 
     public static void main(String[] args) {
-        Solution50 s = new Solution50();
-        System.out.println(s.myPow(34, -3));
+        System.out.println(myPow(34, -3));
     }
 }

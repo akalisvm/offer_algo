@@ -1,7 +1,7 @@
 package leetcode;
 
-class Solution8{
-    public int myAtoi(String str) {
+public class leetcode_8{
+    public static int myAtoi(String str) {
         str = str.trim();
         if(str.length() == 0) return 0;
         if(!Character.isDigit(str.charAt(0)) && str.charAt(0) != '-' && str.charAt(0) != '+') return 0;
@@ -23,12 +23,11 @@ class Solution8{
     }
 
     public static void main(String[] args){
-        Solution8 s = new Solution8();
         String str1 = "42", str2 = "   -42", str3 = "4193 with words", str4 = "words and 987", str5 = "2147483648";
-        System.out.println(s.myAtoi(str1));
-        System.out.println(s.myAtoi(str2));
-        System.out.println(s.myAtoi(str3));
-        System.out.println(s.myAtoi(str4));
-        System.out.println(s.myAtoi(str5));
+        System.out.println(myAtoi(str1));
+        System.out.println(myAtoi(str2));
+        System.out.println(myAtoi(str3));
+        System.out.println(myAtoi(str4));
+        System.out.println(myAtoi(str5));
     }
 }

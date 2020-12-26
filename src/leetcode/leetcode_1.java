@@ -4,9 +4,9 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution1{
+public class leetcode_1{
     //Directly calculating
-    public int[] twoSum1(int[] nums, int target){
+    public static int[] twoSum1(int[] nums, int target){
         for(int i = 0; i < nums.length; i++){
             for(int j = 0; j < nums.length; j++){
                 if (target - nums[j] == nums[i] && i != j) {
@@ -17,7 +17,7 @@ class Solution1{
         return new int[]{-1, -1};
     }
 
-    public int[] twoSum2(int[] nums, int target){
+    public static int[] twoSum2(int[] nums, int target){
         //Hash tables twice
         Map<Integer, Integer> map = new HashMap<>();
         for(int i = 0; i < nums.length; i++){
@@ -32,7 +32,7 @@ class Solution1{
         return new int[]{-1, -1};
     }
 
-    public int[] twoSum3(int[] nums, int target){
+    public static int[] twoSum3(int[] nums, int target){
         //Hash tables once
         Map<Integer, Integer> map = new HashMap<>();
         for(int i = 0; i < nums.length; i++){
@@ -48,7 +48,6 @@ class Solution1{
     public static void main(String[] args) {
         int[] nums = new int[]{3,2,4};
         int target = 6;
-        Solution1 s = new Solution1();
-        System.out.print(Arrays.toString(s.twoSum1(nums, target)));
+        System.out.print(Arrays.toString(twoSum1(nums, target)));
     }
 }

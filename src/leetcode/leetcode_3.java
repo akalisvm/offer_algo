@@ -2,8 +2,8 @@ package leetcode;
 
 import java.util.HashSet;
 
-class Solution3 {
-    public int lengthOfLongestSubstring(String s) {
+public class leetcode_3 {
+    public static int lengthOfLongestSubstring(String s) {
         // 哈希集合，记录每个字符是否出现过
         HashSet<Character> occ = new HashSet<Character>();
         int n = s.length();
@@ -26,8 +26,7 @@ class Solution3 {
     }
 
     public static void main(String[] args){
-        Solution3 s = new Solution3();
         String str = "abcabcbb";
-        System.out.print(s.lengthOfLongestSubstring(str));
+        System.out.print(lengthOfLongestSubstring(str));
     }
 }

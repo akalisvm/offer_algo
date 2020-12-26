@@ -2,22 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a01f290c-44ab-4757-a256-218b4cb96cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_43.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_43.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_49.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_49.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_50.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_50.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_53.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_53.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/Fraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_2020_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/.idea/pointToOffer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/.idea/pointToOffer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_2020_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_2020_test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode_java/META-INF/leetcode_java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_2020_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_2020_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_2020_test2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,9 +98,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.jz_33 (1)">
-    <configuration name="jz_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_27" />
+  <component name="RunManager" selected="Application.jz_51">
+    <configuration name="jz_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_46" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_32" />
+    <configuration name="jz_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_51" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -101,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_33 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_33" />
+    <configuration name="miHoYo_2020_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.miHoYo.miHoYo_2020_test1" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jzoffer.*" />
+          <option name="PATTERN" value="tests.miHoYo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,33 +138,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jz_33" />
+    <configuration name="miHoYo_2020_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.miHoYo.miHoYo_2020_test2" />
       <module name="java_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.miHoYo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_49" />
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="java_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jzoffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.jz_33 (1)" />
-        <item itemvalue="Application.jz_32" />
-        <item itemvalue="Application.jz_33" />
-        <item itemvalue="Application.jz_49" />
-        <item itemvalue="Application.jz_27" />
+        <item itemvalue="Application.jz_51" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.jz_46" />
+        <item itemvalue="Application.miHoYo_2020_test2" />
+        <item itemvalue="Application.miHoYo_2020_test1" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +184,27 @@
       <workItem from="1599050634667" duration="2044000" />
       <workItem from="1599404391443" duration="48305000" />
       <workItem from="1599681955470" duration="4309000" />
-      <workItem from="1599708047136" duration="13684000" />
+      <workItem from="1599708047136" duration="14451000" />
+      <workItem from="1599781436123" duration="50000" />
+      <workItem from="1599796360594" duration="788000" />
+      <workItem from="1600063003445" duration="1751000" />
+      <workItem from="1600088306609" duration="1569000" />
+      <workItem from="1600499421251" duration="683000" />
+      <workItem from="1600536170929" duration="598000" />
+      <workItem from="1600598840599" duration="593000" />
+      <workItem from="1601212141599" duration="1653000" />
+      <workItem from="1601470979811" duration="1200000" />
+      <workItem from="1601481583083" duration="49000" />
+      <workItem from="1601565094707" duration="1995000" />
+      <workItem from="1601732161534" duration="671000" />
+      <workItem from="1601827542709" duration="1372000" />
+      <workItem from="1601842030013" duration="626000" />
+      <workItem from="1601910144284" duration="605000" />
+      <workItem from="1601992166704" duration="599000" />
+      <workItem from="1602069170038" duration="55000" />
+      <workItem from="1602566611417" duration="1633000" />
+      <workItem from="1602643660898" duration="67000" />
+      <workItem from="1608984946460" duration="12159000" />
     </task>
     <servers />
   </component>
