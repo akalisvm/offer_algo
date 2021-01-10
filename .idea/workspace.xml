@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a01f290c-44ab-4757-a256-218b4cb96cc7" name="Default Changelist" comment="" />
+    <list default="true" id="a01f290c-44ab-4757-a256-218b4cb96cc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcode_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Kchiyoh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Kchiyoh.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_2020_test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_2020_test2.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +62,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.miHoYo_2020_test1">
-    <configuration name="jz_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_46" />
+  <component name="RunManager" selected="Application.leetcode_14">
+    <configuration name="jz_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_51" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
@@ -71,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jz_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jzoffer.jz_51" />
+    <configuration name="leetcode_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode_14" />
       <module name="java_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jzoffer.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode_14" />
         <item itemvalue="Application.miHoYo_2020_test1" />
         <item itemvalue="Application.miHoYo_2020_test2" />
         <item itemvalue="Application.jz_51" />
         <item itemvalue="Application.test (1)" />
-        <item itemvalue="Application.jz_46" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +169,7 @@
       <workItem from="1602566611417" duration="1633000" />
       <workItem from="1602643660898" duration="67000" />
       <workItem from="1608984946460" duration="13167000" />
-      <workItem from="1610140384849" duration="24963000" />
+      <workItem from="1610140384849" duration="26021000" />
     </task>
     <servers />
   </component>
