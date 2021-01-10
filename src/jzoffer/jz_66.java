@@ -8,7 +8,7 @@ public class jz_66 {
         return movingCountAlgo(threshold, rows, cols, 0, 0, isVisited);
     }
 
-    public int movingCountAlgo (int threshold, int rows, int cols, int stepRows, int stepCols, int[][] isVisited){
+    private int movingCountAlgo(int threshold, int rows, int cols, int stepRows, int stepCols, int[][] isVisited){
         if(stepRows < 0 || stepCols < 0 || stepRows >= rows || stepCols >= cols || isVisited[stepRows][stepCols] == 1
         || cal(stepRows) + cal(stepCols) > threshold) return 0;
         if(isVisited[stepRows][stepCols] == 0) isVisited[stepRows][stepCols] = 1;
@@ -18,7 +18,7 @@ public class jz_66 {
                 movingCountAlgo(threshold, rows, cols, stepRows-1, stepCols, isVisited);
     }
 
-    public int cal (int num){
+    private int cal(int num){
         int sum = 0;
         while (num > 0){
             sum += num % 10;

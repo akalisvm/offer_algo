@@ -4,24 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-class ListNode{
-    int val;
-    ListNode next = null;
-
-    ListNode(int val){
-        this.val = val;
-    }
-
-    void addNode(ListNode newNode){
-        if(this.next == null){
-            this.next = newNode;
-        }
-        else{
-            this.next.addNode(newNode);
-        }
-    }
-}
-
 public class jz_3 {
     private ArrayList<Integer> printListFromTailToHead(ListNode listNode){
         ArrayList<Integer> list = new ArrayList<>();

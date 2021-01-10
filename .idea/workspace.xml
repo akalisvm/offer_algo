@@ -2,46 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a01f290c-44ab-4757-a256-218b4cb96cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/RandomListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/TreeLinkNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_65.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/.idea/pointToOffer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/.idea/pointToOffer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution50.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution66.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/leetcode/Solution9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_2020_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_2020_test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/tests/mihoyo/miHoYo_test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode_java/META-INF/leetcode_java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_50.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_2020_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_2020_test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/miHoYo/miHoYo_2020_test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_66.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +74,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sl_java_algo" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -98,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.jz_51">
+  <component name="RunManager" selected="Application.miHoYo_2020_test2">
     <configuration name="jz_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jzoffer.jz_46" />
       <module name="java_practice" />
@@ -160,10 +155,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.miHoYo_2020_test2" />
         <item itemvalue="Application.jz_51" />
         <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.jz_46" />
-        <item itemvalue="Application.miHoYo_2020_test2" />
         <item itemvalue="Application.miHoYo_2020_test1" />
       </list>
     </recent_temporary>
@@ -204,7 +199,8 @@
       <workItem from="1602069170038" duration="55000" />
       <workItem from="1602566611417" duration="1633000" />
       <workItem from="1602643660898" duration="67000" />
-      <workItem from="1608984946460" duration="12159000" />
+      <workItem from="1608984946460" duration="13167000" />
+      <workItem from="1610140384849" duration="24536000" />
     </task>
     <servers />
   </component>

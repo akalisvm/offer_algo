@@ -1,27 +1,22 @@
 package jzoffer;
 
-import java.util.Arrays;
+import java.util.ArrayList;
 
 public class jz_50 {
-    public boolean duplicate(int[] numbers, int length, int[] duplication){
-        boolean flag = false;
+    public boolean duplicate(int[] numbers,int length,int [] duplication) {
         if(numbers == null || length == 0) {
-            duplication[0] = -1;
             return false;
         }
-        Arrays.sort(numbers);
-        for(int i = 0; i < length-1; i++){
-            if(numbers[i] == numbers[i+1]){
-                duplication[0] = numbers[i];
-                flag = true;
-                break;
+        ArrayList<Integer> list = new ArrayList<>();
+        for(int i : numbers) {
+            if(list.contains(i)) {
+                duplication[0] = i;
+                return true;
+            } else {
+                list.add(i);
             }
         }
-        if(!flag) {
-            duplication[0] = -1;
-        }
-        System.out.print(duplication[0] + " ");
-        return flag;
+        return false;
     }
 
     public static void main(String[] args){

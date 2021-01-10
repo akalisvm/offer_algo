@@ -3,13 +3,6 @@ package jzoffer;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-class TreeNode{
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) {val = x;}
-}
-
 public class jz_4 {
     public TreeNode reConstructBinaryTree(int[] pre, int[] in){
         if(pre.length == 0 || in.length == 0) return null;
