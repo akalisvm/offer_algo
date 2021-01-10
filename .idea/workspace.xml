@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a01f290c-44ab-4757-a256-218b4cb96cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/RandomListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/TreeLinkNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jzoffer/jz_65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/jzoffer/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/jzoffer/jz_50.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/jz_66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/jz_66.java" afterDir="false" />
-    </list>
+    <list default="true" id="a01f290c-44ab-4757-a256-218b4cb96cc7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.miHoYo_2020_test2">
+  <component name="RunManager" selected="Application.miHoYo_2020_test1">
     <configuration name="jz_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jzoffer.jz_46" />
       <module name="java_practice" />
@@ -155,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.miHoYo_2020_test1" />
         <item itemvalue="Application.miHoYo_2020_test2" />
         <item itemvalue="Application.jz_51" />
         <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.jz_46" />
-        <item itemvalue="Application.miHoYo_2020_test1" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +164,7 @@
       <workItem from="1602566611417" duration="1633000" />
       <workItem from="1602643660898" duration="67000" />
       <workItem from="1608984946460" duration="13167000" />
-      <workItem from="1610140384849" duration="24536000" />
+      <workItem from="1610140384849" duration="24963000" />
     </task>
     <servers />
   </component>

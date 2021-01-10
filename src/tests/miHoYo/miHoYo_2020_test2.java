@@ -91,8 +91,8 @@ public class miHoYo_2020_test2 {
         int M = sc.nextInt();
         System.out.print("N:");
         int N = sc.nextInt();
-        String y = "YES";
-        String n = "NO";
+        String y = "yes";
+        String n = "no";
         if(m.newMatrix(M,N)){
             System.out.println(y);
         }

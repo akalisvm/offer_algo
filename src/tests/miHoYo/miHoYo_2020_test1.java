@@ -92,8 +92,6 @@ public class miHoYo_2020_test1 {
         int d = Integer.parseInt(String.valueOf(str.charAt(6)));
         Fraction f1 = new Fraction(a,b);
         Fraction f2 = new Fraction(c,d);
-        f1.print();
-        f2.print();
         switch (symbol){
             case '+': f1.plus(f2).print(); break;
             case '-': f1.minus(f2).print(); break;
